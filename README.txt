@@ -4,5 +4,3 @@ docker stop container  [83c234d5dc39]
 docker container rm nodeexpress
 
 docker image  rm nodeexpress
-git config --global user.email "vincentparisi@example.com"
-git config --global user.name "VincentParisi"
